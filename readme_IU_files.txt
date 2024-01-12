@@ -1,0 +1,3 @@
+'Channel_Images_processing.ijm' - ImageJ script that creates a binary mask corresponding to microfabricated channels and uses this mask to select the particles inside the channels. The resulting image sequence is fed to the MTrack2 particle tracker which outputs particle trajectories.
+
+'dR_calculation_for_channel_trajesctories.ipynb' - a Jupyter notebook that calculates the displacements for the trajectories in channels. These displacements are shown in the Figures 2 and S12. 
